@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Nkombou 👋
 
-<!--
-**peterasiermo-dot/peterasiermo-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🌱 Estoy aprendiendo **Git y GitHub**: repositorios, ramas, issues, pull requests y GitHub Pages.
+- 💻 Practico desarrollo web con HTML, CSS y JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis repositorios
+- [peterasiermo-dot.github.io](https://github.com/peterasiermo-dot/peterasiermo-dot.github.io) – mi web personal con GitHub Pages → https://peterasiermo-dot.github.io
+- [nuevo-repo](https://github.com/peterasiermo-dot/nuevo-repo) – proyecto de práctica con ramas, issues, PR y GitHub Pages → https://peterasiermo-dot.github.io/nuevo-repo/
+
+## Contacto
+📫 Puedes encontrarme aquí en GitHub: [@peterasiermo-dot](https://github.com/peterasiermo-dot)
